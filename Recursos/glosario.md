@@ -126,3 +126,66 @@ Ejemplo:
 
 ```txt
 https://campus.utn.ac.cr/cursos/isw521
+
+
+
+Glosario
+Utility-First
+
+Enfoque de Tailwind CSS donde los componentes se construyen utilizando clases utilitarias, cada una con una función específica, sin necesidad de crear hojas de estilo personalizadas.
+
+Mobile-First
+
+Metodología de diseño web en la que primero se desarrolla la interfaz para dispositivos móviles y luego se adapta a pantallas más grandes mediante breakpoints.
+
+Breakpoint
+
+Punto de cambio en el diseño responsivo que permite aplicar estilos diferentes según el ancho de la pantalla, por ejemplo md: o lg: en Tailwind.
+
+CSS Grid
+
+Sistema de diseño bidimensional que organiza elementos en filas y columnas, facilitando la creación de interfaces responsivas.
+
+Design System
+
+Conjunto de reglas, componentes, colores, tipografías y estilos reutilizables que mantienen una apariencia consistente en toda una aplicación.
+
+DOM (Document Object Model)
+
+Representación en forma de árbol de una página web que JavaScript puede manipular para modificar contenido, estilos y estructura.
+
+Evento (Event)
+
+Acción realizada por el usuario o por el navegador, como hacer clic, escribir en un campo o mover el mouse, que puede ser detectada por JavaScript.
+
+addEventListener()
+
+Método de JavaScript que permite asociar una función a un evento específico de un elemento HTML.
+
+appendChild()
+
+Método de JavaScript utilizado para agregar un nuevo elemento como hijo de otro elemento dentro del DOM.
+
+remove()
+
+Método que elimina un elemento del DOM.
+
+replaceWith()
+
+Método que reemplaza un elemento existente por otro dentro del DOM.
+
+Variable CSS (Custom Property)
+
+Valor reutilizable definido mediante --nombre-variable, que facilita mantener colores, fuentes y otros estilos de forma consistente.
+
+Tailwind CSS
+
+Framework CSS basado en utilidades que permite construir interfaces directamente desde el HTML utilizando clases predefinidas.
+
+Bootstrap
+
+Framework CSS que ofrece componentes y estilos prediseñados para desarrollar interfaces web de forma rápida.
+
+Responsive Design
+
+Técnica de desarrollo web que permite que una página se adapte automáticamente a diferentes tamaños de pantalla, mejorando la experiencia del usuario en dispositivos móviles y de escritorio.
